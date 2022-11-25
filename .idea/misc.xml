@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/workspace/myself/KotlinStudy/app/src/main/res/layout/activity_login.xml" value="0.6513157894736842" />
         <entry key="..\:/workspace/myself/KotlinStudy/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/workspace/myself/KotlinStudy/app/src/main/res/layout/dialog_loading.xml" value="0.24909420289855072" />
       </map>
     </option>
   </component>

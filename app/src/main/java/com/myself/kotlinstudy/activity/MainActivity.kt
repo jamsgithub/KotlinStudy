@@ -1,7 +1,8 @@
-package com.myself.kotlinstudy
+package com.myself.kotlinstudy.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.myself.kotlinstudy.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
